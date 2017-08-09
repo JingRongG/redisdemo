@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+将删除 .gitignore
+将删除 .gradle/
+将删除 .idea/
+将删除 build.gradle
+将删除 gradle/
+将删除 gradlew
+将删除 gradlew.bat
+将删除 out/
+将删除 redisdemo.iml
+将忽略仓库 src/main/java/com/guojr/redisdemo
+将删除 src/main/resources
+将忽略仓库 src/test/java/com/guojr/redisdemo
